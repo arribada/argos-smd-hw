@@ -5,7 +5,7 @@
 The Argos SMD module is a small PCB (2x2cm) dedicated to act as a standalone or a coprocessor for any new design which required a satelite communication. 
 The module is based on STM32WL55 processor and combined with GR5504 power amplifier allowing a comunication up to 26dBm. This module which pass the CLS certification is ready to be used. 
 
-This repository is an altium project with the production files allowed.
+This repository is an altium project with the production files allowed. Please download the hardware-lib repository to have all schematics files used and libraries: https://github.com/arribada/hardware-lib 
 
 ## Configuration
 The module only required a power supply and an antenna to be ready to be used.
@@ -70,10 +70,10 @@ Free:
 
 
 ## State
-V1.0: (2024/05/01) First release minor fix.
+V1.0: (2024/05/01) First release minor fix. => first batch 150 pieces.
 V0.1d : (2023/08/23) PCB layout under production with H.C.C (4 PCBA to test the design) => 4xlayers, HDI board 
 V0.1 : (2023/06/05) PCB layout finalization and under validation
 
 ## Todo
 - Create wiki
-- Share 
+

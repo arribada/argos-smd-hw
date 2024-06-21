@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -223,6 +224,667 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTOJNVTZ
 
+[Document11]
+DocumentPath=Project Outputs for BGA_RF-ArticGR\HCCgerber_V1.0c.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=8e59a902-f6cc-4ad7-85e1-fdaeec8842f4
+Description=VHF_300
+AllowFabrication=0
+ParameterCount=0
+VariationCount=12
+Variation1=Designator=L8|UniqueId=\ZOLFUXVD\KFRAKKOT|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN4N8B0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator1=L8
+ParamVariation2=ParameterName=Comment|VariantValue=LQW15AN4N8B0ZD
+ParamDesignator2=L8
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=L8
+ParamVariation4=ParameterName=Description|VariantValue=Inductor RF Chip Multi-Layer - SMD  4.8nH 0.1nH 0402 Paper T/R
+ParamDesignator4=L8
+ParamVariation5=ParameterName=Footprint|VariantValue=LQW15CNR20J00B
+ParamDesignator5=L8
+ParamVariation6=ParameterName=Ibis Model|VariantValue=
+ParamDesignator6=L8
+ParamVariation7=ParameterName=Library Reference|VariantValue=LQW15AN4N8B0ZD
+ParamDesignator7=L8
+ParamVariation8=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator8=L8
+ParamVariation9=ParameterName=Manufacturer Part Number|VariantValue=LQW15AN4N8B0ZD
+ParamDesignator9=L8
+ParamVariation10=ParameterName=PCB3D|VariantValue=
+ParamDesignator10=L8
+ParamVariation11=ParameterName=Pin Info|VariantValue=
+ParamDesignator11=L8
+ParamVariation12=ParameterName=Pricing 1|VariantValue=1=0,2, 10=0,164, 50=0,164, 100=0,117, 1000=0,08, 10000=0,067 (USD)
+ParamDesignator12=L8
+ParamVariation13=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator13=L8
+ParamVariation14=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator14=L8
+ParamVariation15=ParameterName=Simulation|VariantValue=
+ParamDesignator15=L8
+ParamVariation16=ParameterName=Stock 1|VariantValue=9446
+ParamDesignator16=L8
+ParamVariation17=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator17=L8
+ParamVariation18=ParameterName=Supplier Part Number 1|VariantValue=81-LQW15AN4N8B0ZD
+ParamDesignator18=L8
+ParamVariation19=ParameterName=Value|VariantValue=4.8nH
+ParamDesignator19=L8
+Variation2=Designator=L9|UniqueId=\ZOLFUXVD\BUGWJGYA|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQG15HN3N6C02D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQG15WH0N7B02D|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Case/Package|VariantValue=0402
+ParamDesignator20=L9
+ParamVariation21=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamDesignator21=L9
+ParamVariation22=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamDesignator22=L9
+ParamVariation23=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator23=L9
+ParamVariation24=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
+ParamDesignator24=L9
+ParamVariation25=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator25=L9
+ParamVariation26=ParameterName=ComponentLink1Description|VariantValue=http://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0009.pdf?src-supplier=Digikey
+ParamDesignator26=L9
+ParamVariation27=ParameterName=ComponentLink1URL|VariantValue=http://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0009.pdf?src-supplier=Digikey
+ParamDesignator27=L9
+ParamVariation28=ParameterName=Core Material|VariantValue=Air
+ParamDesignator28=L9
+ParamVariation29=ParameterName=Current Rating|VariantValue=700mA
+ParamDesignator29=L9
+ParamVariation30=ParameterName=DC Resistance (DCR)|VariantValue=130mR
+ParamDesignator30=L9
+ParamVariation31=ParameterName=Description|VariantValue=Inductor RF Chip Multi-Layer - 3.6nH 0.2nH 0402 Paper T/R
+ParamDesignator31=L9
+ParamVariation32=ParameterName=Footprint|VariantValue=LQG15WH0N7B02D
+ParamDesignator32=L9
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=L9
+ParamVariation34=ParameterName=Inductance|VariantValue=3.6nH
+ParamDesignator34=L9
+ParamVariation35=ParameterName=Library Reference|VariantValue=LQG15HN3N6C02D
+ParamDesignator35=L9
+ParamVariation36=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator36=L9
+ParamVariation37=ParameterName=Manufacturer Part Number|VariantValue=LQG15HN3N6C02D
+ParamDesignator37=L9
+ParamVariation38=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator38=L9
+ParamVariation39=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator39=L9
+ParamVariation40=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator40=L9
+ParamVariation41=ParameterName=Packaging|VariantValue=Cut Tape
+ParamDesignator41=L9
+ParamVariation42=ParameterName=PCB3D|VariantValue=
+ParamDesignator42=L9
+ParamVariation43=ParameterName=Pin Info|VariantValue=
+ParamDesignator43=L9
+ParamVariation44=ParameterName=Pricing 1|VariantValue=1=0,1, 10=0,044, 50=0,044, 100=0,034, 1000=0,026, 10000=0,022 (USD)
+ParamDesignator44=L9
+ParamVariation45=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator45=L9
+ParamVariation46=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator46=L9
+ParamVariation47=ParameterName=Self Resonant Frequency|VariantValue=6GHz
+ParamDesignator47=L9
+ParamVariation48=ParameterName=Series|VariantValue=LQG15
+ParamDesignator48=L9
+ParamVariation49=ParameterName=Shielding|VariantValue=Unshielded
+ParamDesignator49=L9
+ParamVariation50=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator50=L9
+ParamVariation51=ParameterName=Simulation|VariantValue=
+ParamDesignator51=L9
+ParamVariation52=ParameterName=Stock 1|VariantValue=376
+ParamDesignator52=L9
+ParamVariation53=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator53=L9
+ParamVariation54=ParameterName=Supplier Part Number 1|VariantValue=81-LQG15HN3N6C02D
+ParamDesignator54=L9
+ParamVariation55=ParameterName=Test Frequency|VariantValue=100MHz
+ParamDesignator55=L9
+ParamVariation56=ParameterName=Value|VariantValue=3.6nH
+ParamDesignator56=L9
+Variation3=Designator=C21|UniqueId=\ZOLFUXVD\GQQFRXNN|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM1555C1H200GA01D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=CAPC1005X55N|AltLibLink_IsSameFootprint=True
+ParamVariation57=ParameterName=Capacitance|VariantValue=20pF
+ParamDesignator57=C21
+ParamVariation58=ParameterName=Case/Package|VariantValue=0402
+ParamDesignator58=C21
+ParamVariation59=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamDesignator59=C21
+ParamVariation60=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamDesignator60=C21
+ParamVariation61=ParameterName=Category 1|VariantValue=Ceramic Capacitors
+ParamDesignator61=C21
+ParamVariation62=ParameterName=Comment|VariantValue=20pF
+ParamDesignator62=C21
+ParamVariation63=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator63=C21
+ParamVariation64=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/6270/grm1555c1h200ga01-01-6270705.pdf?src-supplier=Digi-Key
+ParamDesignator64=C21
+ParamVariation65=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/6270/grm1555c1h200ga01-01-6270705.pdf?src-supplier=Digi-Key
+ParamDesignator65=C21
+ParamVariation66=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/11609/product-11609354.pdf?src-supplier=Avnet
+ParamDesignator66=C21
+ParamVariation67=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/11609/product-11609354.pdf?src-supplier=Avnet
+ParamDesignator67=C21
+ParamVariation68=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/6270/partnumbering-e-01-6270710.pdf?src-supplier=Digi-Key
+ParamDesignator68=C21
+ParamVariation69=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/6270/partnumbering-e-01-6270710.pdf?src-supplier=Digi-Key
+ParamDesignator69=C21
+ParamVariation70=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/16440/l0005e-16440550.pdf?src-supplier=Future+Electronics
+ParamDesignator70=C21
+ParamVariation71=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/16440/l0005e-16440550.pdf?src-supplier=Future+Electronics
+ParamDesignator71=C21
+ParamVariation72=ParameterName=Construction|VariantValue=Flat
+ParamDesignator72=C21
+ParamVariation73=ParameterName=Depth|VariantValue=0.5mm
+ParamDesignator73=C21
+ParamVariation74=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 20 pF 50 VDC 2% 0402 C0G (NP0)
+ParamDesignator74=C21
+ParamVariation75=ParameterName=Description 1|VariantValue=0402 20 pF 50 V ±2% Tolerance C0G SMT Multilayer Ceramic Capacitor
+ParamDesignator75=C21
+ParamVariation76=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator76=C21
+ParamVariation77=ParameterName=Footprint|VariantValue=CAPC1005X55N
+ParamDesignator77=C21
+ParamVariation78=ParameterName=Height|VariantValue=0.5mm
+ParamDesignator78=C21
+ParamVariation79=ParameterName=Ibis Model|VariantValue=
+ParamDesignator79=C21
+ParamVariation80=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator80=C21
+ParamVariation81=ParameterName=Length|VariantValue=1mm
+ParamDesignator81=C21
+ParamVariation82=ParameterName=Library Reference|VariantValue=GRM1555C1H200GA01D
+ParamDesignator82=C21
+ParamVariation83=ParameterName=Manufacturer 1|VariantValue=Murata
+ParamDesignator83=C21
+ParamVariation84=ParameterName=Manufacturer Part Number 1|VariantValue=GRM1555C1H200GA01D
+ParamDesignator84=C21
+ParamVariation85=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator85=C21
+ParamVariation86=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator86=C21
+ParamVariation87=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator87=C21
+ParamVariation88=ParameterName=Package Quantity|VariantValue=1
+ParamDesignator88=C21
+ParamVariation89=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator89=C21
+ParamVariation90=ParameterName=PCB3D|VariantValue=
+ParamDesignator90=C21
+ParamVariation91=ParameterName=Pin Info|VariantValue=
+ParamDesignator91=C21
+ParamVariation92=ParameterName=Pricing 1|VariantValue=1=0,12, 10=0,05, 50=0,05, 100=0,029, 1000=0,024, 10000=0,02 (USD)
+ParamDesignator92=C21
+ParamVariation93=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator93=C21
+ParamVariation94=ParameterName=RoHS 1|VariantValue=Yes
+ParamDesignator94=C21
+ParamVariation95=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator95=C21
+ParamVariation96=ParameterName=Series|VariantValue=GRM
+ParamDesignator96=C21
+ParamVariation97=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator97=C21
+ParamVariation98=ParameterName=Simulation|VariantValue=
+ParamDesignator98=C21
+ParamVariation99=ParameterName=Stock 1|VariantValue=88926
+ParamDesignator99=C21
+ParamVariation100=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator100=C21
+ParamVariation101=ParameterName=Supplier Part Number 1|VariantValue=81-GRM1555C1H200GA1D
+ParamDesignator101=C21
+ParamVariation102=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator102=C21
+ParamVariation103=ParameterName=Thickness|VariantValue=0.022inch
+ParamDesignator103=C21
+ParamVariation104=ParameterName=Tolerance|VariantValue=2%
+ParamDesignator104=C21
+ParamVariation105=ParameterName=Value|VariantValue=20pF
+ParamDesignator105=C21
+ParamVariation106=ParameterName=Voltage|VariantValue=50V
+ParamDesignator106=C21
+ParamVariation107=ParameterName=Voltage Rating|VariantValue=50V
+ParamDesignator107=C21
+ParamVariation108=ParameterName=Voltage Rating (DC)|VariantValue=50V
+ParamDesignator108=C21
+ParamVariation109=ParameterName=Width|VariantValue=0.02inch
+ParamDesignator109=C21
+Variation4=Designator=C24|UniqueId=\ZOLFUXVD\FBWYGBPG|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GCM1555C1H110FA16D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GCM155|AltLibLink_IsSameFootprint=False
+ParamVariation110=ParameterName=Comment|VariantValue=4.7pF
+ParamDesignator110=C24
+ParamVariation111=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator111=C24
+ParamVariation112=ParameterName=ComponentLink1Description|VariantValue=Mouser
+ParamDesignator112=C24
+ParamVariation113=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.fr/ProductDetail/Murata-Electronics/GCM1555C1H4R7CA16D?qs=jDWTHf1mkXZYnVNtgyfFgw%3D%3D
+ParamDesignator113=C24
+ParamVariation114=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7PF 50V .25PF 0402
+ParamDesignator114=C24
+ParamVariation115=ParameterName=Footprint|VariantValue=GCM155
+ParamDesignator115=C24
+ParamVariation116=ParameterName=Ibis Model|VariantValue=
+ParamDesignator116=C24
+ParamVariation117=ParameterName=Library Reference|VariantValue=GCM1555C1H4R7CA16D
+ParamDesignator117=C24
+ParamVariation118=ParameterName=PCB3D|VariantValue=
+ParamDesignator118=C24
+ParamVariation119=ParameterName=Pin Info|VariantValue=
+ParamDesignator119=C24
+ParamVariation120=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator120=C24
+ParamVariation121=ParameterName=Simulation|VariantValue=
+ParamDesignator121=C24
+ParamVariation122=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator122=C24
+ParamVariation123=ParameterName=Supplier Part Number 1|VariantValue=81-GCM1555C1H4R7CA6D
+ParamDesignator123=C24
+ParamVariation124=ParameterName=Value|VariantValue=4.7pF
+ParamDesignator124=C24
+Variation5=Designator=L10|UniqueId=\ZOLFUXVD\WTWAORLZ|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN13NG0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=True
+ParamVariation125=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator125=L10
+ParamVariation126=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
+ParamDesignator126=L10
+ParamVariation127=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator127=L10
+ParamVariation128=ParameterName=Description|VariantValue=Inductor RF Chip Multi-Layer - 13nH 2% 0402 Paper T/R
+ParamDesignator128=L10
+ParamVariation129=ParameterName=Footprint|VariantValue=LQW15CNR20J00B
+ParamDesignator129=L10
+ParamVariation130=ParameterName=Ibis Model|VariantValue=
+ParamDesignator130=L10
+ParamVariation131=ParameterName=Library Reference|VariantValue=LQW15AN13NG0ZD
+ParamDesignator131=L10
+ParamVariation132=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator132=L10
+ParamVariation133=ParameterName=Manufacturer Part Number|VariantValue=LQW15AN13NG0ZD
+ParamDesignator133=L10
+ParamVariation134=ParameterName=PCB3D|VariantValue=
+ParamDesignator134=L10
+ParamVariation135=ParameterName=Pin Info|VariantValue=
+ParamDesignator135=L10
+ParamVariation136=ParameterName=Pricing 1|VariantValue=1=0,2, 10=0,164, 50=0,164, 100=0,117, 1000=0,08, 10000=0,067 (USD)
+ParamDesignator136=L10
+ParamVariation137=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator137=L10
+ParamVariation138=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator138=L10
+ParamVariation139=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator139=L10
+ParamVariation140=ParameterName=Simulation|VariantValue=
+ParamDesignator140=L10
+ParamVariation141=ParameterName=Stock 1|VariantValue=7296
+ParamDesignator141=L10
+ParamVariation142=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator142=L10
+ParamVariation143=ParameterName=Supplier Part Number 1|VariantValue=81-LQW15AN13NG0ZD
+ParamDesignator143=L10
+ParamVariation144=ParameterName=Value|VariantValue=13nH
+ParamDesignator144=L10
+Variation6=Designator=C25|UniqueId=\ZOLFUXVD\MJFHKJGY|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM0225C1E7R0BA03L|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GRM022C81C222KE01L|AltLibLink_IsSameFootprint=False
+ParamVariation145=ParameterName=Arrow Part Number|VariantValue=
+ParamDesignator145=C25
+ParamVariation146=ParameterName=Arrow Price/Stock|VariantValue=
+ParamDesignator146=C25
+ParamVariation147=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator147=C25
+ParamVariation148=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator148=C25
+ParamVariation149=ParameterName=Datasheet Link|VariantValue=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0225C1E7R0BA03-01A.pdf
+ParamDesignator149=C25
+ParamVariation150=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 7 pF 25 VDC 0.1 pF 01005 C0G (NP0)
+ParamDesignator150=C25
+ParamVariation151=ParameterName=Footprint|VariantValue=GRM022C81C222KE01L
+ParamDesignator151=C25
+ParamVariation152=ParameterName=Height|VariantValue=0.2mm
+ParamDesignator152=C25
+ParamVariation153=ParameterName=Ibis Model|VariantValue=
+ParamDesignator153=C25
+ParamVariation154=ParameterName=Library Reference|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator154=C25
+ParamVariation155=ParameterName=Manufacturer_Name|VariantValue=Murata Electronics
+ParamDesignator155=C25
+ParamVariation156=ParameterName=Manufacturer_Part_Number|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator156=C25
+ParamVariation157=ParameterName=Mouser Part Number|VariantValue=81-GRM0225C1E7R0BA3L
+ParamDesignator157=C25
+ParamVariation158=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM0225C1E7R0BA3L
+ParamDesignator158=C25
+ParamVariation159=ParameterName=PCB3D|VariantValue=
+ParamDesignator159=C25
+ParamVariation160=ParameterName=Pin Info|VariantValue=
+ParamDesignator160=C25
+ParamVariation161=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator161=C25
+ParamVariation162=ParameterName=Simulation|VariantValue=
+ParamDesignator162=C25
+ParamVariation163=ParameterName=Value|VariantValue=7pF
+ParamDesignator163=C25
+Variation7=Designator=C10|UniqueId=\ZOLFUXVD\ONZPWYKO\IGBZUFKZ|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM1555C1H200GA01D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=CAPC1005X55N|AltLibLink_IsSameFootprint=True
+ParamVariation164=ParameterName=Capacitance|VariantValue=20pF
+ParamDesignator164=C10
+ParamVariation165=ParameterName=Case/Package|VariantValue=0402
+ParamDesignator165=C10
+ParamVariation166=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamDesignator166=C10
+ParamVariation167=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamDesignator167=C10
+ParamVariation168=ParameterName=Category 1|VariantValue=Ceramic Capacitors
+ParamDesignator168=C10
+ParamVariation169=ParameterName=Comment|VariantValue=20pF
+ParamDesignator169=C10
+ParamVariation170=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator170=C10
+ParamVariation171=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/6270/grm1555c1h200ga01-01-6270705.pdf?src-supplier=Digi-Key
+ParamDesignator171=C10
+ParamVariation172=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/6270/grm1555c1h200ga01-01-6270705.pdf?src-supplier=Digi-Key
+ParamDesignator172=C10
+ParamVariation173=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/11609/product-11609354.pdf?src-supplier=Avnet
+ParamDesignator173=C10
+ParamVariation174=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/11609/product-11609354.pdf?src-supplier=Avnet
+ParamDesignator174=C10
+ParamVariation175=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/6270/partnumbering-e-01-6270710.pdf?src-supplier=Digi-Key
+ParamDesignator175=C10
+ParamVariation176=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/6270/partnumbering-e-01-6270710.pdf?src-supplier=Digi-Key
+ParamDesignator176=C10
+ParamVariation177=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/16440/l0005e-16440550.pdf?src-supplier=Future+Electronics
+ParamDesignator177=C10
+ParamVariation178=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/16440/l0005e-16440550.pdf?src-supplier=Future+Electronics
+ParamDesignator178=C10
+ParamVariation179=ParameterName=Construction|VariantValue=Flat
+ParamDesignator179=C10
+ParamVariation180=ParameterName=Depth|VariantValue=0.5mm
+ParamDesignator180=C10
+ParamVariation181=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 20 pF 50 VDC 2% 0402 C0G (NP0)
+ParamDesignator181=C10
+ParamVariation182=ParameterName=Description 1|VariantValue=0402 20 pF 50 V ±2% Tolerance C0G SMT Multilayer Ceramic Capacitor
+ParamDesignator182=C10
+ParamVariation183=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator183=C10
+ParamVariation184=ParameterName=Footprint|VariantValue=CAPC1005X55N
+ParamDesignator184=C10
+ParamVariation185=ParameterName=Height|VariantValue=0.5mm
+ParamDesignator185=C10
+ParamVariation186=ParameterName=Ibis Model|VariantValue=
+ParamDesignator186=C10
+ParamVariation187=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator187=C10
+ParamVariation188=ParameterName=Length|VariantValue=1mm
+ParamDesignator188=C10
+ParamVariation189=ParameterName=Library Reference|VariantValue=GRM1555C1H200GA01D
+ParamDesignator189=C10
+ParamVariation190=ParameterName=Manufacturer 1|VariantValue=Murata
+ParamDesignator190=C10
+ParamVariation191=ParameterName=Manufacturer Part Number 1|VariantValue=GRM1555C1H200GA01D
+ParamDesignator191=C10
+ParamVariation192=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator192=C10
+ParamVariation193=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator193=C10
+ParamVariation194=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator194=C10
+ParamVariation195=ParameterName=Package Quantity|VariantValue=1
+ParamDesignator195=C10
+ParamVariation196=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator196=C10
+ParamVariation197=ParameterName=PCB3D|VariantValue=
+ParamDesignator197=C10
+ParamVariation198=ParameterName=Pin Info|VariantValue=
+ParamDesignator198=C10
+ParamVariation199=ParameterName=Pricing 1|VariantValue=1=0,12, 10=0,05, 50=0,05, 100=0,029, 1000=0,024, 10000=0,02 (USD)
+ParamDesignator199=C10
+ParamVariation200=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator200=C10
+ParamVariation201=ParameterName=RoHS 1|VariantValue=Yes
+ParamDesignator201=C10
+ParamVariation202=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator202=C10
+ParamVariation203=ParameterName=Series|VariantValue=GRM
+ParamDesignator203=C10
+ParamVariation204=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator204=C10
+ParamVariation205=ParameterName=Simulation|VariantValue=
+ParamDesignator205=C10
+ParamVariation206=ParameterName=Stock 1|VariantValue=88926
+ParamDesignator206=C10
+ParamVariation207=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator207=C10
+ParamVariation208=ParameterName=Supplier Part Number 1|VariantValue=81-GRM1555C1H200GA1D
+ParamDesignator208=C10
+ParamVariation209=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator209=C10
+ParamVariation210=ParameterName=Thickness|VariantValue=0.022inch
+ParamDesignator210=C10
+ParamVariation211=ParameterName=Tolerance|VariantValue=2%
+ParamDesignator211=C10
+ParamVariation212=ParameterName=Value|VariantValue=20pF
+ParamDesignator212=C10
+ParamVariation213=ParameterName=Voltage|VariantValue=50V
+ParamDesignator213=C10
+ParamVariation214=ParameterName=Voltage Rating|VariantValue=50V
+ParamDesignator214=C10
+ParamVariation215=ParameterName=Voltage Rating (DC)|VariantValue=50V
+ParamDesignator215=C10
+ParamVariation216=ParameterName=Width|VariantValue=0.02inch
+ParamDesignator216=C10
+Variation8=Designator=L5|UniqueId=\ZOLFUXVD\ONZPWYKO\PLEZRXKX|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN13NG0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=False
+ParamVariation217=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator217=L5
+ParamVariation218=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
+ParamDesignator218=L5
+ParamVariation219=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator219=L5
+ParamVariation220=ParameterName=Description|VariantValue=Inductor RF Chip Multi-Layer - 13nH 2% 0402 Paper T/R
+ParamDesignator220=L5
+ParamVariation221=ParameterName=Footprint|VariantValue=LQW15CNR20J00B
+ParamDesignator221=L5
+ParamVariation222=ParameterName=Ibis Model|VariantValue=
+ParamDesignator222=L5
+ParamVariation223=ParameterName=Library Reference|VariantValue=LQW15AN13NG0ZD
+ParamDesignator223=L5
+ParamVariation224=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator224=L5
+ParamVariation225=ParameterName=Manufacturer Part Number|VariantValue=LQW15AN13NG0ZD
+ParamDesignator225=L5
+ParamVariation226=ParameterName=PCB3D|VariantValue=
+ParamDesignator226=L5
+ParamVariation227=ParameterName=Pin Info|VariantValue=
+ParamDesignator227=L5
+ParamVariation228=ParameterName=Pricing 1|VariantValue=1=0,2, 10=0,164, 50=0,164, 100=0,117, 1000=0,08, 10000=0,067 (USD)
+ParamDesignator228=L5
+ParamVariation229=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator229=L5
+ParamVariation230=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator230=L5
+ParamVariation231=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator231=L5
+ParamVariation232=ParameterName=Simulation|VariantValue=
+ParamDesignator232=L5
+ParamVariation233=ParameterName=Stock 1|VariantValue=7296
+ParamDesignator233=L5
+ParamVariation234=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator234=L5
+ParamVariation235=ParameterName=Supplier Part Number 1|VariantValue=81-LQW15AN13NG0ZD
+ParamDesignator235=L5
+ParamVariation236=ParameterName=Value|VariantValue=13nH
+ParamDesignator236=L5
+Variation9=Designator=L4|UniqueId=\ZOLFUXVD\ONZPWYKO\CUHTYDEU|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQG15HN3N6C02D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQG15WH0N7B02D|AltLibLink_IsSameFootprint=False
+ParamVariation237=ParameterName=Case/Package|VariantValue=0402
+ParamDesignator237=L4
+ParamVariation238=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamDesignator238=L4
+ParamVariation239=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamDesignator239=L4
+ParamVariation240=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator240=L4
+ParamVariation241=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
+ParamDesignator241=L4
+ParamVariation242=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator242=L4
+ParamVariation243=ParameterName=ComponentLink1Description|VariantValue=http://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0009.pdf?src-supplier=Digikey
+ParamDesignator243=L4
+ParamVariation244=ParameterName=ComponentLink1URL|VariantValue=http://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0009.pdf?src-supplier=Digikey
+ParamDesignator244=L4
+ParamVariation245=ParameterName=Core Material|VariantValue=Air
+ParamDesignator245=L4
+ParamVariation246=ParameterName=Current Rating|VariantValue=700mA
+ParamDesignator246=L4
+ParamVariation247=ParameterName=DC Resistance (DCR)|VariantValue=130mR
+ParamDesignator247=L4
+ParamVariation248=ParameterName=Description|VariantValue=Inductor RF Chip Multi-Layer - 3.6nH 0.2nH 0402 Paper T/R
+ParamDesignator248=L4
+ParamVariation249=ParameterName=Footprint|VariantValue=LQG15WH0N7B02D
+ParamDesignator249=L4
+ParamVariation250=ParameterName=Ibis Model|VariantValue=
+ParamDesignator250=L4
+ParamVariation251=ParameterName=Inductance|VariantValue=3.6nH
+ParamDesignator251=L4
+ParamVariation252=ParameterName=Library Reference|VariantValue=LQG15HN3N6C02D
+ParamDesignator252=L4
+ParamVariation253=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator253=L4
+ParamVariation254=ParameterName=Manufacturer Part Number|VariantValue=LQG15HN3N6C02D
+ParamDesignator254=L4
+ParamVariation255=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator255=L4
+ParamVariation256=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator256=L4
+ParamVariation257=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator257=L4
+ParamVariation258=ParameterName=Packaging|VariantValue=Cut Tape
+ParamDesignator258=L4
+ParamVariation259=ParameterName=PCB3D|VariantValue=
+ParamDesignator259=L4
+ParamVariation260=ParameterName=Pin Info|VariantValue=
+ParamDesignator260=L4
+ParamVariation261=ParameterName=Pricing 1|VariantValue=1=0,1, 10=0,044, 50=0,044, 100=0,034, 1000=0,026, 10000=0,022 (USD)
+ParamDesignator261=L4
+ParamVariation262=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator262=L4
+ParamVariation263=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator263=L4
+ParamVariation264=ParameterName=Self Resonant Frequency|VariantValue=6GHz
+ParamDesignator264=L4
+ParamVariation265=ParameterName=Series|VariantValue=LQG15
+ParamDesignator265=L4
+ParamVariation266=ParameterName=Shielding|VariantValue=Unshielded
+ParamDesignator266=L4
+ParamVariation267=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator267=L4
+ParamVariation268=ParameterName=Simulation|VariantValue=
+ParamDesignator268=L4
+ParamVariation269=ParameterName=Stock 1|VariantValue=376
+ParamDesignator269=L4
+ParamVariation270=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator270=L4
+ParamVariation271=ParameterName=Supplier Part Number 1|VariantValue=81-LQG15HN3N6C02D
+ParamDesignator271=L4
+ParamVariation272=ParameterName=Test Frequency|VariantValue=100MHz
+ParamDesignator272=L4
+ParamVariation273=ParameterName=Value|VariantValue=3.6nH
+ParamDesignator273=L4
+Variation10=Designator=C11|UniqueId=\ZOLFUXVD\ONZPWYKO\WFTFTPIG|Kind=1|AlternatePart=
+ParamVariation274=ParameterName=Value|VariantValue==Capacitance
+ParamDesignator274=C11
+Variation11=Designator=C17|UniqueId=\ZOLFUXVD\ONZPWYKO\JDTARDAS|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GCM1555C1H110FA16D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GCM155|AltLibLink_IsSameFootprint=False
+ParamVariation275=ParameterName=Arrow Part Number|VariantValue=
+ParamDesignator275=C17
+ParamVariation276=ParameterName=Arrow Price/Stock|VariantValue=
+ParamDesignator276=C17
+ParamVariation277=ParameterName=Comment|VariantValue=GCM1555C1H110FA16D
+ParamDesignator277=C17
+ParamVariation278=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator278=C17
+ParamVariation279=ParameterName=Datasheet Link|VariantValue=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM1555C1H110FA16-01.pdf
+ParamDesignator279=C17
+ParamVariation280=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 11 pF 50 VDC 1% 0402 C0G (NP0) AEC-Q200
+ParamDesignator280=C17
+ParamVariation281=ParameterName=Footprint|VariantValue=GCM155
+ParamDesignator281=C17
+ParamVariation282=ParameterName=Height|VariantValue=0.55mm
+ParamDesignator282=C17
+ParamVariation283=ParameterName=Ibis Model|VariantValue=
+ParamDesignator283=C17
+ParamVariation284=ParameterName=Library Reference|VariantValue=GCM1555C1H110FA16D
+ParamDesignator284=C17
+ParamVariation285=ParameterName=Manufacturer_Name|VariantValue=Murata Electronics
+ParamDesignator285=C17
+ParamVariation286=ParameterName=Manufacturer_Part_Number|VariantValue=GCM1555C1H110FA16D
+ParamDesignator286=C17
+ParamVariation287=ParameterName=Mouser Part Number|VariantValue=
+ParamDesignator287=C17
+ParamVariation288=ParameterName=Mouser Price/Stock|VariantValue=
+ParamDesignator288=C17
+ParamVariation289=ParameterName=PCB3D|VariantValue=
+ParamDesignator289=C17
+ParamVariation290=ParameterName=Pin Info|VariantValue=
+ParamDesignator290=C17
+ParamVariation291=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator291=C17
+ParamVariation292=ParameterName=Simulation|VariantValue=
+ParamDesignator292=C17
+ParamVariation293=ParameterName=Value|VariantValue=11pF
+ParamDesignator293=C17
+Variation12=Designator=C18|UniqueId=\ZOLFUXVD\ONZPWYKO\RIFOIDYC|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM0225C1E7R0BA03L|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GRM022C81C222KE01L|AltLibLink_IsSameFootprint=False
+ParamVariation294=ParameterName=Arrow Part Number|VariantValue=
+ParamDesignator294=C18
+ParamVariation295=ParameterName=Arrow Price/Stock|VariantValue=
+ParamDesignator295=C18
+ParamVariation296=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator296=C18
+ParamVariation297=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator297=C18
+ParamVariation298=ParameterName=Datasheet Link|VariantValue=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0225C1E7R0BA03-01A.pdf
+ParamDesignator298=C18
+ParamVariation299=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 7 pF 25 VDC 0.1 pF 01005 C0G (NP0)
+ParamDesignator299=C18
+ParamVariation300=ParameterName=Footprint|VariantValue=GRM022C81C222KE01L
+ParamDesignator300=C18
+ParamVariation301=ParameterName=Height|VariantValue=0.2mm
+ParamDesignator301=C18
+ParamVariation302=ParameterName=Ibis Model|VariantValue=
+ParamDesignator302=C18
+ParamVariation303=ParameterName=Library Reference|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator303=C18
+ParamVariation304=ParameterName=Manufacturer_Name|VariantValue=Murata Electronics
+ParamDesignator304=C18
+ParamVariation305=ParameterName=Manufacturer_Part_Number|VariantValue=GRM0225C1E7R0BA03L
+ParamDesignator305=C18
+ParamVariation306=ParameterName=Mouser Part Number|VariantValue=81-GRM0225C1E7R0BA3L
+ParamDesignator306=C18
+ParamVariation307=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM0225C1E7R0BA3L
+ParamDesignator307=C18
+ParamVariation308=ParameterName=PCB3D|VariantValue=
+ParamDesignator308=C18
+ParamVariation309=ParameterName=Pin Info|VariantValue=
+ParamDesignator309=C18
+ParamVariation310=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator310=C18
+ParamVariation311=ParameterName=Simulation|VariantValue=
+ParamDesignator311=C18
+ParamVariation312=ParameterName=Value|VariantValue=7pF
+ParamDesignator312=C18
+ParamVariationCount=312
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BGA_RF-ArticGR\Design Rule Check - module-BGA_RG-4layers_v0.html
 DItemRevisionGUID=
@@ -236,24 +898,24 @@ Path=D:\Altium\Projects\stm32lw-dev\DevicesSheets\
 IncludeSubFolders=1
 
 [Parameter1]
-Name=Board_Reference
-Value=1.0
+Name=Board_Assembly_Revision
+Value=0.1
 
 [Parameter2]
-Name=Board_PCB_Revision
-Value=D
+Name=Board_Document_Date
+Value=04/2024
 
 [Parameter3]
 Name=Board_Name
 Value=HorizonLink-SMD
 
 [Parameter4]
-Name=Board_Document_Date
-Value=04/2024
+Name=Board_PCB_Revision
+Value=D
 
 [Parameter5]
-Name=Board_Assembly_Revision
-Value=0.1
+Name=Board_Reference
+Value=1.0
 
 [DeviceSheet1]
 DocumentPath=..\..\DevicesSheets\RF\CLS_1W_3.3V_Lineup.SchDoc
@@ -632,48 +1294,42 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PCBDrawing
-OutputName8=Draftsman
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PCBLIB Print
-OutputName9=PCBLIB Prints
+OutputType9=PDF3D
+OutputName9=PDF3D
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D
-OutputName10=PDF3D
+OutputType10=PDF3D MBA
+OutputName10=PDF3D MBA
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
+OutputType11=Report Print
+OutputName11=Report Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Report Print
-OutputName12=Report Prints
+OutputType12=Schematic Print
+OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Schematic Print
-OutputName13=Schematic Prints
+OutputType13=SimView Print
+OutputName13=SimView Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=SimView Print
-OutputName14=SimView Prints
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -780,6 +1436,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\Altium\Templates\BOM_Template_Single_Supplier_Arribada.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -835,102 +1503,6 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Text Print
-OutputName2=Text Print
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Text Print
-OutputName3=Text Print
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Text Print
-OutputName4=Text Print
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Text Print
-OutputName5=Text Print
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Text Print
-OutputName6=Text Print
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Text Print
-OutputName7=Text Print
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Text Print
-OutputName8=Text Print
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Text Print
-OutputName9=Text Print
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Text Print
-OutputName10=Text Print
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Text Print
-OutputName11=Text Print
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Text Print
-OutputName12=Text Print
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Text Print
-OutputName13=Text Print
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Text Print
-OutputName14=Text Print
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=Text Print
-OutputName15=Text Print
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=Text Print
-OutputName16=Text Print
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType17=Text Print
-OutputName17=Text Print
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1174,6 +1746,36 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
 
 [Difference Levels]
 Type1=1
@@ -1244,6 +1846,19 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1365,6 +1980,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1372,6 +1988,32 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1458,12 +2100,6 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=stm32wl-dev.SchLib
-ComponentDesignItemID0=ESD_6V
-ComponentSymbolReference0=ESD_6V
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1477,31 +2113,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
-ParameterUpdate0=1
-ParameterName1=Component Kind
-ParameterUpdate1=1
-ParameterName2=Description
-ParameterUpdate2=1
-ParameterName3=Library Reference
-ParameterUpdate3=1
-ParameterName4=Manufacturer
-ParameterUpdate4=1
-ParameterName5=Manufacturer_Part_Number
-ParameterUpdate5=1
-ParameterName6=Revision
-ParameterUpdate6=1
-ParameterName7=Supplier 1
-ParameterUpdate7=1
-ParameterName8=Supplier Part Number 1
-ParameterUpdate8=1
-ParameterName9=Value
-ParameterUpdate9=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=DIOM0603X03N
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

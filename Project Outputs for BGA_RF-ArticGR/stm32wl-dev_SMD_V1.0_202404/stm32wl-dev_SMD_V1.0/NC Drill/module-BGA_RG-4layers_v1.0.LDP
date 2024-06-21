@@ -1,6 +1,0 @@
-Layer Pairs Export File for PCB: D:\Altium\Projects\stm32wl-dev\Projects\BGA_RF-ArticGR\module-BGA_RG-4layers_v1.0.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=module-bga_rg-4layers_v1.0.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=Top_Signal2_Blind_Vias|DrillFile=module-bga_rg-4layers_v1.0.tx2|DrillLayers=gtl,g1,g2
-LayersSetName=Signal1_Signal2_Buried_Vias|DrillFile=module-bga_rg-4layers_v1.0.tx4|DrillLayers=g1,g2
-LayersSetName=Top_Signal1_Blind_Vias|DrillFile=module-bga_rg-4layers_v1.0.tx5|DrillLayers=gtl,g1
-LayersSetName=Top_Signal2_Blind_Vias|DrillFile=module-bga_rg-4layers_v1.0.tx7|DrillLayers=gtl,g1,g2
