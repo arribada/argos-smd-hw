@@ -864,41 +864,41 @@ Path=D:\Altium\Projects\stm32lw-dev\DevicesSheets\
 IncludeSubFolders=1
 
 [Parameter1]
-Name=Board_Assembly_Revision
-Value=0.1
+Name=Board_Reference
+Value=argos-smd
 
 [Parameter2]
-Name=Board_Document_Date
-Value=04/2024
+Name=Board_PCB_Revision
+Value= 
 
 [Parameter3]
 Name=Board_Name
 Value=HorizonLink-SMD
 
 [Parameter4]
-Name=Board_PCB_Revision
-Value=D
+Name=Board_Document_Date
+Value=06/2024
 
 [Parameter5]
-Name=Board_Reference
+Name=Board_Assembly_Revision
 Value=1.0
 
 [DeviceSheet1]
-DocumentPath=..\..\DevicesSheets\RF\CLS_1W_3.3V_Lineup.SchDoc
+DocumentPath=..\..\hardware-lib\DeviceSheets\RF\CLS_1W_3.3V_Lineup.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=..\..\DevicesSheets\Power\STM32RF_power_SMPS.SchDoc
+DocumentPath=..\..\hardware-lib\DeviceSheets\MCU\stm32wl55jci7-details.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet3]
-DocumentPath=..\..\DevicesSheets\MCU\stm32wl55jci7-details.SchDoc
+DocumentPath=..\..\hardware-lib\DeviceSheets\Power\STM32RF_power_SMPS.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
@@ -1579,36 +1579,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
