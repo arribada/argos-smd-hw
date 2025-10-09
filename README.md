@@ -2,6 +2,8 @@
 
 # Arribada Argos SMD Module
 
+![Arribada SMD Module Hero Image](https://github.com/arribada/argos-smd-hw/blob/main/Project%20Outputs%20for%20BGA_RF-ArticGR/arribada_smd_hero-1.png)
+
 ---
 
 ## 🌍 Where to Buy
@@ -10,8 +12,6 @@ The **Arribada Argos SMD** module is available for purchase directly from Arriba
 👉 [**Buy the Arribada Argos SMD Module**](https://arribada.org/arribada-smd/)
 
 Visit the [Arribada SMD product page](https://arribada.org/arribada-smd/) for up-to-date information, technical documentation, and certification details.
-
-![Arribada SMD Module Hero Image](/argos-smd-hw/Project%20Outputs%20for%20BGA_RF-ArticGR/arribada_smd_hero-1.png)
 
 ---
 
@@ -55,7 +55,7 @@ For easy integration and testing, use the [**argos-smd-wings**](https://github.c
 
 Below is the Argos SMD module pinout:
 
-![Argos SMD Pinout](/argos-smd-hw/Project%20Outputs%20for%20BGA_RF-ArticGR/smd_pin_out.png)
+![Argos SMD Pinout](https://github.com/arribada/argos-smd-hw/blob/main/Project%20Outputs%20for%20BGA_RF-ArticGR/smd_pin_out.png)
 
 ---
 
@@ -117,13 +117,6 @@ Below is the Argos SMD module pinout:
 
 ---
 
-## 🧩 To Do
-
-- [ ] Create Wiki documentation  
-- [ ] Add electrical test report  
-- [ ] Publish manufacturing guide  
-
----
 
 ## 🔗 Additional Resources
 
