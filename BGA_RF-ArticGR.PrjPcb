@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=module-BGA_RG-4layers_v1.0.PcbDoc
+DocumentPath=module-BGA_RG-4layers_v2.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DTOJNVTZ
+DocumentUniqueId=VLMGNGEB
 
 [ProjectVariant1]
 UniqueId=8e59a902-f6cc-4ad7-85e1-fdaeec8842f4
@@ -214,9 +214,9 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=12
 Variation1=Designator=L8|UniqueId=\ZOLFUXVD\KFRAKKOT|Kind=2|AlternatePart=LQW15AN4N8B0ZD|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN4N8B0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Category|VariantValue=Fixed Inductors
+ParamVariation1=ParameterName=Comment|VariantValue=LQW15AN4N8B0ZD
 ParamDesignator1=L8
-ParamVariation2=ParameterName=Comment|VariantValue=LQW15AN4N8B0ZD
+ParamVariation2=ParameterName=Category|VariantValue=Fixed Inductors
 ParamDesignator2=L8
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=L8
@@ -253,15 +253,15 @@ ParamDesignator18=L8
 ParamVariation19=ParameterName=Value|VariantValue=4.8nH
 ParamDesignator19=L8
 Variation2=Designator=L9|UniqueId=\ZOLFUXVD\BUGWJGYA|Kind=2|AlternatePart=LQG15HN3N6C02D|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQG15HN3N6C02D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQG15WH0N7B02D|AltLibLink_IsSameFootprint=True
-ParamVariation20=ParameterName=Case/Package|VariantValue=0402
+ParamVariation20=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
 ParamDesignator20=L9
-ParamVariation21=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamVariation21=ParameterName=Case/Package|VariantValue=0402
 ParamDesignator21=L9
-ParamVariation22=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamVariation22=ParameterName=Case Code (Imperial)|VariantValue=0402
 ParamDesignator22=L9
-ParamVariation23=ParameterName=Category|VariantValue=Fixed Inductors
+ParamVariation23=ParameterName=Case Code (Metric)|VariantValue=1005
 ParamDesignator23=L9
-ParamVariation24=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
+ParamVariation24=ParameterName=Category|VariantValue=Fixed Inductors
 ParamDesignator24=L9
 ParamVariation25=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator25=L9
@@ -328,17 +328,17 @@ ParamDesignator55=L9
 ParamVariation56=ParameterName=Value|VariantValue=3.6nH
 ParamDesignator56=L9
 Variation3=Designator=C21|UniqueId=\ZOLFUXVD\GQQFRXNN|Kind=2|AlternatePart=20pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM1555C1H200GA01D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=CAPC1005X55N|AltLibLink_IsSameFootprint=True
-ParamVariation57=ParameterName=Capacitance|VariantValue=20pF
+ParamVariation57=ParameterName=Comment|VariantValue=20pF
 ParamDesignator57=C21
-ParamVariation58=ParameterName=Case/Package|VariantValue=0402
+ParamVariation58=ParameterName=Capacitance|VariantValue=20pF
 ParamDesignator58=C21
-ParamVariation59=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamVariation59=ParameterName=Case/Package|VariantValue=0402
 ParamDesignator59=C21
-ParamVariation60=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamVariation60=ParameterName=Case Code (Imperial)|VariantValue=0402
 ParamDesignator60=C21
-ParamVariation61=ParameterName=Category 1|VariantValue=Ceramic Capacitors
+ParamVariation61=ParameterName=Case Code (Metric)|VariantValue=1005
 ParamDesignator61=C21
-ParamVariation62=ParameterName=Comment|VariantValue=20pF
+ParamVariation62=ParameterName=Category 1|VariantValue=Ceramic Capacitors
 ParamDesignator62=C21
 ParamVariation63=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator63=C21
@@ -466,9 +466,9 @@ ParamDesignator123=C24
 ParamVariation124=ParameterName=Value|VariantValue=4.7pF
 ParamDesignator124=C24
 Variation5=Designator=L10|UniqueId=\ZOLFUXVD\WTWAORLZ|Kind=2|AlternatePart=LQW15AN13NG0ZD|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN13NG0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=True
-ParamVariation125=ParameterName=Category|VariantValue=Fixed Inductors
+ParamVariation125=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
 ParamDesignator125=L10
-ParamVariation126=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
+ParamVariation126=ParameterName=Category|VariantValue=Fixed Inductors
 ParamDesignator126=L10
 ParamVariation127=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator127=L10
@@ -507,11 +507,11 @@ ParamDesignator143=L10
 ParamVariation144=ParameterName=Value|VariantValue=13nH
 ParamDesignator144=L10
 Variation6=Designator=C25|UniqueId=\ZOLFUXVD\MJFHKJGY|Kind=2|AlternatePart=GRM0225C1E7R0BA03L|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM0225C1E7R0BA03L|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GRM022C81C222KE01L|AltLibLink_IsSameFootprint=False
-ParamVariation145=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation145=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
 ParamDesignator145=C25
-ParamVariation146=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation146=ParameterName=Arrow Part Number|VariantValue=
 ParamDesignator146=C25
-ParamVariation147=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
+ParamVariation147=ParameterName=Arrow Price/Stock|VariantValue=
 ParamDesignator147=C25
 ParamVariation148=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator148=C25
@@ -546,17 +546,17 @@ ParamDesignator162=C25
 ParamVariation163=ParameterName=Value|VariantValue=7pF
 ParamDesignator163=C25
 Variation7=Designator=C10|UniqueId=\ZOLFUXVD\ONZPWYKO\IGBZUFKZ|Kind=2|AlternatePart=20pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM1555C1H200GA01D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=CAPC1005X55N|AltLibLink_IsSameFootprint=True
-ParamVariation164=ParameterName=Capacitance|VariantValue=20pF
+ParamVariation164=ParameterName=Comment|VariantValue=20pF
 ParamDesignator164=C10
-ParamVariation165=ParameterName=Case/Package|VariantValue=0402
+ParamVariation165=ParameterName=Capacitance|VariantValue=20pF
 ParamDesignator165=C10
-ParamVariation166=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamVariation166=ParameterName=Case/Package|VariantValue=0402
 ParamDesignator166=C10
-ParamVariation167=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamVariation167=ParameterName=Case Code (Imperial)|VariantValue=0402
 ParamDesignator167=C10
-ParamVariation168=ParameterName=Category 1|VariantValue=Ceramic Capacitors
+ParamVariation168=ParameterName=Case Code (Metric)|VariantValue=1005
 ParamDesignator168=C10
-ParamVariation169=ParameterName=Comment|VariantValue=20pF
+ParamVariation169=ParameterName=Category 1|VariantValue=Ceramic Capacitors
 ParamDesignator169=C10
 ParamVariation170=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator170=C10
@@ -653,9 +653,9 @@ ParamDesignator215=C10
 ParamVariation216=ParameterName=Width|VariantValue=0.02inch
 ParamDesignator216=C10
 Variation8=Designator=L5|UniqueId=\ZOLFUXVD\ONZPWYKO\PLEZRXKX|Kind=2|AlternatePart=LQW15AN13NG0ZD|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW15AN13NG0ZD|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW15CNR20J00B|AltLibLink_IsSameFootprint=False
-ParamVariation217=ParameterName=Category|VariantValue=Fixed Inductors
+ParamVariation217=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
 ParamDesignator217=L5
-ParamVariation218=ParameterName=Comment|VariantValue=LQW15AN13NG0ZD
+ParamVariation218=ParameterName=Category|VariantValue=Fixed Inductors
 ParamDesignator218=L5
 ParamVariation219=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator219=L5
@@ -694,15 +694,15 @@ ParamDesignator235=L5
 ParamVariation236=ParameterName=Value|VariantValue=13nH
 ParamDesignator236=L5
 Variation9=Designator=L4|UniqueId=\ZOLFUXVD\ONZPWYKO\CUHTYDEU|Kind=2|AlternatePart=LQG15HN3N6C02D|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQG15HN3N6C02D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQG15WH0N7B02D|AltLibLink_IsSameFootprint=False
-ParamVariation237=ParameterName=Case/Package|VariantValue=0402
+ParamVariation237=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
 ParamDesignator237=L4
-ParamVariation238=ParameterName=Case Code (Imperial)|VariantValue=0402
+ParamVariation238=ParameterName=Case/Package|VariantValue=0402
 ParamDesignator238=L4
-ParamVariation239=ParameterName=Case Code (Metric)|VariantValue=1005
+ParamVariation239=ParameterName=Case Code (Imperial)|VariantValue=0402
 ParamDesignator239=L4
-ParamVariation240=ParameterName=Category|VariantValue=Fixed Inductors
+ParamVariation240=ParameterName=Case Code (Metric)|VariantValue=1005
 ParamDesignator240=L4
-ParamVariation241=ParameterName=Comment|VariantValue=LQG15HN3N6C02D
+ParamVariation241=ParameterName=Category|VariantValue=Fixed Inductors
 ParamDesignator241=L4
 ParamVariation242=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator242=L4
@@ -772,11 +772,11 @@ Variation10=Designator=C11|UniqueId=\ZOLFUXVD\ONZPWYKO\WFTFTPIG|Kind=1|Alternate
 ParamVariation274=ParameterName=Value|VariantValue==Capacitance
 ParamDesignator274=C11
 Variation11=Designator=C17|UniqueId=\ZOLFUXVD\ONZPWYKO\JDTARDAS|Kind=2|AlternatePart=GCM1555C1H110FA16D|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GCM1555C1H110FA16D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GCM155|AltLibLink_IsSameFootprint=False
-ParamVariation275=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation275=ParameterName=Comment|VariantValue=GCM1555C1H110FA16D
 ParamDesignator275=C17
-ParamVariation276=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation276=ParameterName=Arrow Part Number|VariantValue=
 ParamDesignator276=C17
-ParamVariation277=ParameterName=Comment|VariantValue=GCM1555C1H110FA16D
+ParamVariation277=ParameterName=Arrow Price/Stock|VariantValue=
 ParamDesignator277=C17
 ParamVariation278=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator278=C17
@@ -811,11 +811,11 @@ ParamDesignator292=C17
 ParamVariation293=ParameterName=Value|VariantValue=11pF
 ParamDesignator293=C17
 Variation12=Designator=C18|UniqueId=\ZOLFUXVD\ONZPWYKO\RIFOIDYC|Kind=2|AlternatePart=GRM0225C1E7R0BA03L|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Altium\Projects\stm32wl-dev\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=GRM0225C1E7R0BA03L|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=GRM022C81C222KE01L|AltLibLink_IsSameFootprint=False
-ParamVariation294=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation294=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
 ParamDesignator294=C18
-ParamVariation295=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation295=ParameterName=Arrow Part Number|VariantValue=
 ParamDesignator295=C18
-ParamVariation296=ParameterName=Comment|VariantValue=GRM0225C1E7R0BA03L
+ParamVariation296=ParameterName=Arrow Price/Stock|VariantValue=
 ParamDesignator296=C18
 ParamVariation297=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator297=C18
