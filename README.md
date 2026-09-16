@@ -73,7 +73,7 @@ Below is the Argos SMD module pinout:
 ### Debug
 - **P26:** SWDIO  
 - **P25:** SWCLK  
-- **P23:** SWDIO  
+- **P23:** SWO / LPM wake-up (PB3)  
 - **P27:** RF-BUSY  
 - **P28:** RF-NRST  
 
